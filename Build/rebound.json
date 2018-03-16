@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 268435456,
-"dataUrl": "rebound.data.unityweb",
-"asmCodeUrl": "rebound.asm.code.unityweb",
-"asmMemoryUrl": "rebound.asm.memory.unityweb",
-"asmFrameworkUrl": "rebound.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20"
-}
