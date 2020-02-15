@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "BoxSpring",
+"productName": "ReBound",
 "dataUrl": "rebound-playable.data.unityweb",
 "wasmCodeUrl": "rebound-playable.wasm.code.unityweb",
 "wasmFrameworkUrl": "rebound-playable.wasm.framework.unityweb",
